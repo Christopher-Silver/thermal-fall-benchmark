@@ -9,6 +9,8 @@ The file "Metrics_and_Attentions.py" includes class definitions for metrics and 
 
 The file "Model.py" includes the best performing model - M2 - from the published work.
 
+The pdf "MotionFlowGeneration.pdf" explains how motion flow was generated, with an evidence based approach for selecting the best parameters.
+
 The TF-66 dataset used in this manuscript (including all information about how to use it, caching instructions, and train/validation split) can be accessed at the following github link: https://github.com/Christopher-Silver/TF-66.
 
 Licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0). See LICENSE file for details.
